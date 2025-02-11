@@ -1,0 +1,1499 @@
+
+
+<!DOCTYPE html><html>
+
+  <head>
+
+          
+
+      <meta charset="UTF-8">
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" >
+<meta http-equiv="Expires" content="Thu, 23 May 2024 02:51:12 +0000" >
+<meta name="robots" content="noindex, nofollow" >
+<meta name="viewport" content="user-scalable=no, width=device-width, initial-scale=1.0, maximum-scale=1.0" >
+<meta name="format-detection" content="telephone=no" >
+            <meta property="og:title" content="Resurva / Handcrafted Barbershop" />
+      <meta property="og:site_name" content="Handcrafted Barbershop"/>
+      <meta property="og:url" content="https://handcraftedbarbershop.resurva.com/book" />
+            <meta property="og:description" content="Book Online" />
+                  <meta property="og:image" content="/imgs/ResurvaIcon.png" />
+      
+      <!--[if IE]>
+        <style type="text/css">
+          body {display: none !important}
+        </style>
+      <![endif]-->
+
+      <title>Resurva / Handcrafted Barbershop</title>
+
+      
+      <link href="/imgs/resurva16x163.png" rel="favicon shortcut icon" type="image/png" >
+<link href="/assets/application.css?v=1713802410" media="screen" rel="stylesheet" type="text/css" >      <script type="text/javascript" src="/assets/application.js?v=1713802410"></script>
+<script type="text/javascript">
+    //<!--
+    var baseUrl = 'https://handcraftedbarbershop.resurva.com';    //-->
+</script>
+      
+      
+      
+      <script type="text/javascript">
+        $j( document ).ready(function() {
+
+          if (navigator.userAgent.includes("Instagram")) {
+            $j('.google-login-toggle').remove();
+          }
+
+          var js8djh2hhs99sh9h3992hhs = 'handcraftedbarbershop';
+
+          
+          var cookiesText = resurvaTranslate('BLOCKED_COOKIES') + ' <br><strong><a target="_blank" href="https://' + js8djh2hhs99sh9h3992hhs + '.resurva.com/book">https://' + js8djh2hhs99sh9h3992hhs + '.resurva.com/book</a></strong>';
+
+          if (!navigator.cookieEnabled) {
+            var cookiesAlert = $j('<div class="cookies-disabled-text" style="text-align:center;padding:10px;position:fixed;top:0;right:0;left:0;z-index:999999999">' + cookiesText + '</div>');
+            cookiesAlert.prependTo('body');
+            $j('body').addClass('cookies-disabled');
+          }
+
+                      $j.datepicker.setDefaults($j.datepicker.regional['']);
+          
+                    $j('button[data-toggle="popover"]').popover({ html : true });
+          $j('a[data-toggle="popover"]').popover({ html : true });
+
+                    var isCloseOnLoad = false;
+
+          if (isCloseOnLoad) {
+            $j(window.parent.document).find('.offpop-blocker').trigger('click');
+          }
+        });
+
+        var p3r5157 = false;
+        var isEmbedded = (p3r5157 || false || window.name == 'resurva-frame') ? true : false;
+        $j(function () {
+          if (isEmbedded) {
+            $j('html').addClass('embedded');
+            $j('body').addClass('itouch');
+          }
+
+          if (p3r5157) {
+            $j('html').addClass('p3r5157');
+          }
+          
+          if (window.name == 'resurva-frame') {
+            var body = document.getElementsByTagName("body")[0];
+            body.style.display='table';
+            body.offsetHeight;
+            body.style.display='';
+          }
+
+          checkAppleAppNotificationCookie();
+
+                    $j('.embedded #neckButtons').prependTo('body');
+
+          initTpai();
+        });
+
+    </script>
+      
+    <style type="text/css">
+      body .code,
+      body .feedback,
+      body .form-control {
+          user-select: text !important;
+          -webkit-user-select: text !important;
+          -moz-user-select: text !important;
+          -ms-user-select: text !important;
+      }
+    </style>
+        <style type="text/css">
+      #masthead .navbar > .container,
+      .wrap.application {
+        width: 380px;
+        max-width: 100%;
+        min-height: 0 !important;
+      }
+      .no-minus {
+        margin:0 0 15px 0;
+      }
+      .wrap.application {
+        float:none;
+        margin:0 auto;
+        padding:0;
+      }
+      #colophon .container .row .col-sm-push-6 {
+        float: none;
+        width: auto;
+        left: 0;
+        text-align: center;
+        padding-top: 0px;
+        padding-bottom: 5px;
+      }
+      #colophon .container .row .col-sm-pull-6 {
+        float: none;
+        width: auto;
+        right: 0;
+        text-align: center;
+        padding-top:0;
+      }       
+      #colophon .container .row .col-sm-push-6 ul {
+        text-align: center;
+      }
+      #colophon .container .row .col-sm-push-6 .visible-xs {
+        display: none !important;
+      }
+      .body.page {
+        border-top: none;
+      }
+      .signup-form form {
+        padding:15px;
+      }
+      #resurvaFooter {
+        width: 120px;
+      }
+      .page-head .page-title {
+        font-size: 24px;
+      }
+      .page-head {
+        padding: 15px;
+      }
+      #time-2359 {
+        display:none !important;
+      }
+      .loading {
+        display: none;
+      }
+      </style>
+    
+      
+      <style type="text/css">
+
+        .embedded body,
+        .embedded #appointment-booking-form #fieldset-customfields textarea,
+        .embedded .appleAppNotification,
+        .embedded .offpop .anon_login-block,
+        /*.embedded .add-to-waiting-list-form .body-page-wrap,*/
+        .embedded .booking-progress { 
+          background: #ffffff;
+          color: #000000;
+          border: 1px solid rgba(0, 0, 0, 0.25);
+        }
+
+        .embedded #fieldset-contactinfo .checking-payment-requirements-overlay {
+          background: #ffffff;
+        }
+
+        .embedded #waiver-block .object.page.waiver-agree {
+          background: #ffffff;
+        }
+
+        .embedded .appleAppNotification .btn-info {
+          background: #ffffff;
+          color: #000000;
+          border: none;
+        }
+
+         
+
+        .cookies-disabled-text {
+          background:  #000000;
+           color: #ffffff;
+        }
+
+        .cookies-disabled-text a {
+          color: #ffffff;
+        }
+        
+        .embedded .nav-tabs > li.active > a,
+        .embedded .nav-tabs > li > a:hover {
+          background: #ffffff;
+          color: #000000;
+          border-color: rgba(0, 0, 0, 0.25);
+          border-bottom-color: #ffffff;
+        }
+
+        .embedded .nav-tabs {        
+          border-color: rgba(0, 0, 0, 0.25); 
+        }
+
+        .embedded .booking-progress {
+          background: #ffffff;
+          border-top: none;
+        }
+
+        .embedded .booking-progress-divider {
+          border-right: 1px solid rgba(0, 0, 0, 0.25);
+        }
+
+        .embedded .element-errors {
+          color: #000000;
+        }
+
+        .embedded.p3r5157 body {
+          border: none;
+        }
+
+        .embedded #colophon {
+          border-color: rgba(0, 0, 0, 0.25);
+        }
+
+        .embedded #embed-refresh,
+        .embedded #findMyButton,
+        .embedded .neck-button,
+        .embedded .neck-button:last-child,
+        .embedded .objects.page li.selected, 
+        .embedded #appointment-booking-form .objects.page li:active, 
+        .embedded #appointment-booking-form #fieldset-customfields .objects.page .custom-field-continue:active, 
+        .embedded .subnav .head.object .title h3 a:active,
+        .embedded .ui-datepicker-calendar td a:active,
+        .embedded .ui-datepicker-calendar td:active,
+        .embedded .ui-datepicker-calendar td.ui-datepicker-current-day,
+        .embedded .ui-datepicker-calendar td.ui-datepicker-current-day a,
+        .embedded #scroll-for-more .scroll-for-more,
+        .embedded .appleAppNotification {
+          color: #ffffff;
+          background: #000000;
+        }
+
+        .embedded .info-inline-sep {
+          color: #000000;
+        }
+
+        .embedded #appointment-booking-form .objects.page li:active .info-inline-sep,
+        .embedded .objects.page li.selected .info-inline-sep {
+          color: #ffffff;
+        }
+
+        .embedded .appleAppNotification {
+          background: rgba(0, 0, 0, 0.9);
+        }        
+
+        .embedded .ui-datepicker-calendar td:active a {
+          color: #ffffff !important;
+        }
+
+        .embedded .ui-datepicker-calendar td.ui-state-disabled:active,
+        .embedded .ui-datepicker-calendar td.ui-state-disabled a:active {
+          background: transparent !important;
+        }
+
+        .embedded #embed-refresh,
+        .embedded .neck-button:first-child {
+          border-right-color: #ffffff;
+        }
+
+        .embedded .ui-datepicker-calendar .ui-state-disabled span,
+        .embedded .ui-datepicker-calendar .ui-state-disabled span {
+          color: rgba(0, 0, 0, 0.5);
+        }
+
+        .embedded #appointment-booking-form input::-webkit-input-placeholder,
+        .embedded #userForm input::-webkit-input-placeholder,
+        .embedded #login-form input::-webkit-input-placeholder,
+        .embedded .signup-form form input::-webkit-input-placeholder,
+        .embedded #appointment-booking-form #creditCardExpiryMonth-form-border label, 
+        .embedded #appointment-booking-form #creditCardExpiryYear-form-border label {
+          color: rgba(0, 0, 0, 0.5) !important;
+        }
+        
+        .embedded #appointment-booking-form input:-moz-placeholder,
+        .embedded #userForm input::-moz-placeholder,
+        .embedded #login-form input::-moz-placeholder,
+        .embedded .signup-form form input::-moz-placeholder {
+          color: rgba(0, 0, 0, 0.5) !important;
+        }
+
+        .embedded #appointment-booking-form input::-moz-placeholder,
+        .embedded #userForm input::-moz-placeholder,
+        .embedded #login-form input::-moz-placeholder,
+        .embedded .signup-form form input::-moz-placeholder {
+          color: rgba(0, 0, 0, 0.5) !important;
+        }
+
+        .embedded #appointment-booking-form input:-ms-input-placeholder,
+        .embedded #userForm input::-ms-input-placeholder,
+        .embedded #login-form input::-ms-input-placeholder,
+        .embedded .signup-form form input::-ms-input-placeholder {
+          color: rgba(0, 0, 0, 0.5) !important;
+        }
+
+        .embedded #userForm .progress {
+          background-color: transparent;
+          border:1px solid rgba(0, 0, 0, 0.5);
+        }
+
+        .embedded .ui-datepicker-calendar td a,
+        .embedded .back .glyphicon,
+        .embedded .forward .glyphicon,
+        .embedded .appleAppNotification .btn-link,
+        .embedded .ui-datepicker-today a:after, 
+        .embedded .ui-datepicker-today span:after, 
+        .embedded .ui-datepicker-today.cal-day-closed span:after, 
+        .embedded .ui-datepicker-today.cal-day-full span:after, 
+        .embedded .ui-datepicker-today.cal-day-full a:after, 
+        .embedded .cal-day-full span:after, 
+        .embedded .cal-day-full a:after {
+          color: #323232;
+        }
+
+        .embedded .wrap.application a:not(.btn):not(.neck-button):not(.ui-state-active),
+        .embedded #colophon a,
+        .embedded .gotoresurva {
+          color: #323232;
+        }
+
+        .embedded #appointment-booking-form .btn-primary,
+        .embedded #appointment-booking-form .btn-info,
+        .embedded #appointment-booking-form .button.link,
+        .embedded #userForm .btn-primary,
+        .embedded #userForm .btn-info,
+        .embedded #userForm .button.link,
+        .embedded #login-form .btn-primary,
+        .embedded #login-form .btn-info,
+        .embedded #login-form .button.link,
+        .embedded .signup-form form .btn-primary,
+        .embedded .signup-form form .btn-info,
+        .embedded .signup-form form .button.link,
+        .embedded .btn.services-continue,
+        .embedded .edit-profile-notifications-form-toggle,
+        .embedded #appointment-booking-form #fieldset-items .is-anyone h3,
+        .embedded #appointment-booking-form .services-continue h3, 
+        .embedded #appointment-booking-form .gocalendar h3,
+        .embedded #appointment-booking-form .another-booking-continue h3, 
+        .embedded #appointment-booking-form .custom-field-continue h3, 
+        .embedded #appointment-booking-form #fieldset-items .is-anyone h3,
+        .embedded .booking-progress-thumb,
+        .embedded .booking-summary .label,
+        .embedded .booking-summary .badge {
+          background: #323232 !important;
+          border-color: #323232 !important;
+          color: #ffffff !important;
+        }
+
+        .embedded #resurvaFooterLogo {
+          background-color: #323232;
+        }
+
+        .embedded #resurvaFooterLogo .resurva-bar,
+        .embedded #appointment-booking-form #fieldset-contactinfo .form-border.select-border,
+        .embedded #appointment-booking-form select,
+        .embedded #userForm input,
+        .embedded #userEditProfileForm input,
+        .embedded #login-form input,
+        .embedded .signup-form form input,
+        .embedded #appointment-booking-form .input-group-addon,
+        .embedded #login-form .input-group-addon,
+        .embedded #mailingListSignUp input,
+        .embedded #mailingListSignUp .input-group-addon {
+          background-color: #ffffff;
+        }
+
+        .embedded .objects.page li,
+        .embedded .google-login-toggle,
+        .embedded .itouch .objects.page li:last-child,
+        .embedded .ui-datepicker table tr:last-child td,
+        .embedded #appointment-booking-form input, 
+        .embedded .book-from-day input,
+        .embedded #login-form input,
+        .embedded #appointment-booking-form #email-form-border input, 
+        .embedded #book-from-day-email, 
+        .embedded #appointment-booking-form #userPostal-form-border input, 
+        .embedded #appointment-booking-form #cvv2-form-border input,
+        .embedded .body.page,
+        .embedded form .login-create-account,
+        .embedded #appointment-booking-form #fieldset-customfields textarea,
+        .embedded #appointment-booking-form #fieldset-contactinfo .form-border.select-border,
+        .embedded #appointment-booking-form select,
+        .embedded #appointment-booking-form .element-errors,
+        .embedded #appointment-booking-form .next-openings-message,
+        .embedded #userForm input,
+        .embedded #userEditProfileForm input,
+        .embedded .signup-form form input,
+        .embedded #appointment-booking-form .input-group-addon,
+        .embedded #login-form .input-group-addon,
+        .embedded .gotoresurva,
+        .embedded .booking-form-text-standout,
+        .embedded #card-element,
+        .embedded #appointment-booking-form #paymentCardWrap,
+        .embedded #mailingListSignUp input,
+        .embedded #mailingListSignUp .input-group-addon {
+          border-color: rgba(0, 0, 0, 0.25);
+        }
+
+        .embedded #appointment-booking-form input,
+        .embedded #appointment-booking-form #fieldset-customfields textarea,
+        .embedded #appointment-booking-form select,
+        .embedded #userForm input,
+        .embedded #login-form input,
+        .embedded .signup-form form input,
+        .embedded #mailingListSignUp input,
+        .embedded #mailingListSignUp .input-group-addon {
+          color: #000000;
+        }
+
+        .embedded .objects.page.time-group-list li.group-title,
+        .embedded #resurva-login div:last-child {
+          border-color: rgba(0, 0, 0, 0.25) !important;
+        }
+
+        .embedded .time-group-list-afternoon li.group-title {
+          border-left: 1px solid rgba(0, 0, 0, 0.25) !important;
+          border-right: 1px solid rgba(0, 0, 0, 0.25) !important;
+        }
+
+        .embedded #appointment-booking-form .service-list-items .info li, 
+        .embedded #appointment-booking-form #form-item-select .objects.page .nav li a,
+        .embedded #credits-block span {
+          background-color: rgba(0, 0, 0, 0.25);
+        }
+
+        .embedded #appointment-booking-form .service-list-items li:active .info li,
+        .embedded #appointment-booking-form .service-list-items .selected .info li {
+          background-color: rgba(255, 255, 255, 0.5);
+        }
+
+        .embedded .link-more, 
+        .embedded .objects.page li.not-available-today .link-more, 
+        .embedded .item-select-target {
+          color: #323232 !important;
+          background: transparent;
+          border-color: rgba(0, 0, 0, 0.25) !important;
+        }
+
+        .embedded li.selected .item-select-target,
+        .embedded li:active .item-select-target,
+        .embedded .objects.page li.selected .link-more,
+        .embedded .objects.page li:active .link-more {
+          border-color: rgba(255, 255, 255, 0.5);
+          color: #ffffff !important;
+        }        
+
+        .embedded .link-more, 
+        .embedded .objects.page li.not-available-today .link-more, 
+        .embedded .item-select-target,
+        .embedded .link-more:hover, 
+        .embedded .objects.page li.not-available-today .link-more:hover, 
+        .embedded .item-select-target:hover {
+          color: #323232 !important;
+        } 
+
+        .embedded .link-more:hover,
+        .embedded .objects.page li.not-available-today .link-more:hover, 
+        .embedded .item-select-target:hover {
+          color: rgba(50, 50, 50, 0.5) !important;
+        }
+
+        .embedded #til_day_count-block, 
+        .embedded #credits-block span {
+          color: #000000;
+        }
+
+        .embedded #scrollbar .thumb {
+          background-color: rgba(0, 0, 0, 0.5);
+        }
+
+        .embedded #paymentCardWrap {
+                    background: #fff;
+        }
+
+      </style>
+
+            
+
+  
+  </head>
+
+  
+  <body class="win-nt account-handcraftedbarbershop timezone-88 en_CA ">
+
+    
+                  <header id="masthead">
+          <hgroup>
+            <h1>Handcrafted Barbershop</h1>
+                      </hgroup>
+                  
+
+                   
+
+        </header>
+          
+    <div class="container" id="rMainContainer">
+      <div class="row">
+
+        <div class="wrap application col-xs-12">
+
+                      
+            <div class="head application">
+                <div class="head application">
+
+
+
+  
+		<div class="brand application">
+		<a href="/">
+			<img src="https://fileserver.offshootinc.com/file/2lqhFYTHjlnQ/5a9735bacba574df7c2ed5a68fd4bf9726741085.JPG/resizeMode/fit/height/70" alt="" title=""  />
+		</a>
+	</div>
+	
+  <div class="title application">
+    <h2>Handcrafted Barbershop</h2>
+              <em></em>
+                    <span class="location">Chicago, Illinois        <a href="//maps.google.com/?q=1223+W+Grand+Ave.%2C+Chicago%2C+Illinois%2C+United+States%2C+60642" target="_blank">View map</a></span>
+            </div>
+
+	<div class="offpop show-appointments-screen"></div>
+
+  
+
+</div>
+
+
+    <div id="neckButtons">
+    
+
+
+  
+    <a href="https://handcraftedbarbershop.resurva.com/book?clr=1" class="neck-button clear-booking-button-in-form">
+      New Booking    </a>    
+    <div id="findMyBookingsWrapper">
+      <div id="findMyBookings" data-toggle="popover" data-placement="bottom">
+        <a href="#" id="findMyButton">Find My Booking</a>
+      </div>
+    </div>  
+
+  
+  </div>
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            </div>
+
+                      
+          <div class="body application">
+              <style type="text/css">
+  #page-provider-details .image-caption {
+    display: none !important;
+  }
+  #page-provider-details .object .body img {
+    margin-top: 20px !important;
+  }
+  .room-gethours span {
+    text-align: left !important;
+  }
+</style>
+
+<div class="wrap page" id="page-new-booking">
+
+  <div class="head page">
+    <div class="booking-progress"><div class="booking-progress-thumb"></div></div>
+    <div class="back disabled"><span class="glyphicon glyphicon-chevron-left"></span></div>
+    <div class="forward active"><span class="glyphicon glyphicon-chevron-right"></span></div>
+    <h3 class="title page">
+      <span class="fieldset-service_info title current-title"><em>Services</em></span>
+      <span class="fieldset-theNext5 title"><em><span class="booking-day"></span>Openings:</em></span>
+      <span class="fieldset-date_info title"><em><span class="booking-day"></span>What Day?</em></span>
+      <span class="fieldset-items title"><em><span class="booking-day"></span>Choose your <strong class="service-provider_name">provider</strong>:</em></span>
+      <span class="fieldset-starttime title"><em><span class="booking-day"></span>What time?</em></span>
+      <span class="fieldset-endtime title"><em><span class="booking-day"></span>End time:</em></span>
+      <span class="fieldset-serviceoptions title"><em><span class="booking-day"></span><span></span>Additional Options:</em></span>
+      <span class="fieldset-customfields title"><em>Additional Details:</em></span>
+            <span class="fieldset-contactinfo title"><em>Sign In Required</em></span>
+            <span class="fieldset-bookingWaiver title"><em>Booking Terms:</em></span>
+      <span class="fieldset-addBooking title"><em>Review booking details:</em></span>
+
+    </h3>
+  </div>
+
+  <div class="body page">
+    <div class="iframe-scrollbar">
+      <div class="scrollbar"><div class="track"><div class="thumb"></div></div></div>
+      <div class="viewport">
+        <div class="overview">
+          <form id="appointment-booking-form" enctype="application/x-www-form-urlencoded" method="post" class="br_form" autocomplete="off" action="https://handcraftedbarbershop.resurva.com/book">
+
+<input type="hidden" name="waiver_agree" value="" id="waiver_agree">
+
+<input type="hidden" name="booking[service_multi][0]" value="" class="service-to-book" id="booking-service_multi">
+
+<input type="hidden" name="booking[date][0]" value="" class="date date-to-book" id="booking-date">
+
+<input type="hidden" name="email_notifications" value="" id="email_notifications">
+
+<input type="hidden" name="sms_notifications" value="" id="sms_notifications">
+
+<input type="hidden" name="privacy_terms_accepted_on" value="" id="privacy_terms_accepted_on">
+
+<input type="hidden" name="uu" value="" id="uu">
+
+<input type="hidden" name="tpai" value="" id="tpai">
+<fieldset id="fieldset-service_info" class="current-action">
+<div class="form-border select-border" id="service-form-border">
+<select name="service" id="service" class="form-select form-control">
+    <option value="0" label=" - Select Your Service - "> - Select Your Service - </option>
+</select></div><div class="clear" id="service-form-border-clear"><!-- --></div></fieldset>
+<fieldset id="fieldset-theNext5">
+<div id="nextFive-block"></div></fieldset>
+<fieldset id="fieldset-date_info">
+
+<div  id="inline-calendar"><!-- --></div><div class="clear" id="inline-calendar-form-border-clear"><!-- --></div></fieldset>
+<fieldset id="fieldset-items">
+
+<input type="hidden" name="booking[room_id][0]" value="" class="provider-to-book" id="booking-room_id"></fieldset>
+<fieldset id="fieldset-serviceoptions">
+<div id="booking-serviceOptions-block">			<ul class="objects page">
+				<li class="object page template service-option">
+					<div class="head object">
+						<div class="brand"></div>
+						<div class="title object">
+							<h3></h3>
+							<h4></h4>
+							<input type="checkbox" class="booking-form-service-option" name="service_options[0][]" value="" style="display:none;" />
+						</div>
+					</div>
+				</li>
+				<li class="object page service-options-continue">
+					<span class="btn btn-md btn-info">Continue</span>
+				</li>
+			</ul></div></fieldset>
+<fieldset id="fieldset-starttime">
+
+<input type="hidden" name="booking[start_time][0]" value="" class="start-time-to-book" id="booking-start_time"></fieldset>
+<fieldset id="fieldset-endtime">
+
+<input type="hidden" name="booking[end_time][0]" value="" id=""></fieldset>
+<fieldset id="fieldset-customfields">
+<div id="customFields-block"><ul class="objects page">				<li class="object page custom-field-continue">
+					<div class="head object">
+						<div class="title object">
+							<span class="btn btn-md btn-info">Continue</span>
+						</div>
+					</div>
+				</li>
+			</ul></div></fieldset>
+<fieldset id="fieldset-bookingWaiver">
+<div id="waiver-block">		<ul class="objects page">
+
+			<li class="object page waiver">
+				PLEASE READ AND ACKNOWLEDGE OUR BOOKING POLICY:<br />
+<br />
+1. We are a CASH ONLY establishment. There are ATM's located nearby within walking distance.<br />
+2. Please show up 5-10 minutes before your scheduled appointment time as parking in the neighborhood can be challenging at times. <br />
+3. All cancelations must be done at least 6 hours before scheduled time using the Resurva system.<br />
+4. All No Call / No Shows require full payment to be made for missed appointments prior to your next service. In the event of non-payment, your Resurva account will be disabled from making future appointments.<br />
+ 5. If you are running late, please call to let us know so we can plan accordingly. Otherwise your appointment time may be given to someone else without notice. 
+				<br /><br /><small>Last Updated: 2018-09-03</small>
+			</li>
+			<li class="object page waiver-agree text-center">
+				<span style="font-weight: normal;opacity:0.6;display:block;">By clicking or tapping Continue, you agree to these terms.</span>
+				<button type="button" class="btn btn-info btn-lg" style="margin-top:5px; width: 200px">Continue</button>
+			</li>
+
+		</ul></div></fieldset>
+<fieldset id="fieldset-addBooking">
+<div id="add_booking-block">	<ul class="objects page">
+
+		<li class="object page booking-summary template">
+			<div class="head object">
+				<div class="title object">
+					<h3 class="booking-summary-item-service"></h3>
+					<h4 class="booking-summary-item-date"></h4>
+					<h4 class="booking-summary-item-provider"></h4>
+					<span class="badge booking-summary-item-start-time"></span>
+					<span class="badge booking-summary-item-cost"></span>
+				</div>
+			</div>
+		</li>
+
+		<li class="object page another-booking-continue">
+			<span class="btn btn-md btn-info"> Continue						</span> <span style="font-weight:normal;margin-left:5px;">to contact information</span>
+				</li>
+
+			</ul></div></fieldset>
+<fieldset id="fieldset-contactinfo">
+<div id="anon_login-block">
+		<div id="login-block">
+		
+						<div id="social-logins">
+			<span class="login-with">Sign in with </span>
+			 		<div class="fblogin">
+			<a href="https://handcraftedbarbershop.resurva.com/auth/facebook"></a>
+		</div>
+		
+		<a class="social-login-toggle google-login-toggle" href="https://handcraftedbarbershop.resurva.com/auth/google"></a>
+
+					 </div>
+
+			 
+			 
+			 			
+			<div id="resurva-login" class="resurva-login">
+				<strong style="display:block;padding-bottom:10px;font-size:1.5em;line-height:1em;">OR</strong>
+				<a href="/login" class="login-after-booking-selection">Sign in with your Resurva account</a>
+				<div style="margin-top:10px;padding:10px 0 0 0;border-top:1px solid #d7d7d7;">
+				<a href="/signup" class="signup-after-booking-selection">I don't have a Resurva account</a>
+				</div>
+			</div>
+			
+		</div>
+		
+		</div>
+
+<input type="hidden" name="csrf" value="dc6218768b75706abb6b72733fcf5221" id="csrf">
+
+<input type="hidden" name="ab_token" value="49eee440c54df67a34f390cae3810f54" id="ab_token"></fieldset>
+<fieldset id="fieldset-bookingSubmitting">
+<div id="submitting-block">
+				
+
+		<ul class="objects page">
+
+			<li class="object page waiver" style="padding-left: 30px; padding-right: 30px;">	
+					<center>
+					<h2 style="margin-bottom: 20px;" class="rsaving">
+						Please wait						<span>.</span><span>.</span><span>.</span>
+					</h2>
+</center>
+			</li>
+
+		</ul>
+				
+
+</div></fieldset></form>
+        </div>
+      </div>
+    </div>
+  </div><!-- .body.page -->
+
+</div>
+
+<div class="wrap page" id="page-provider-details">
+  <div class="head page">
+    <div class="back"><span class="glyphicon glyphicon-chevron-left"></span></div>
+    <div class="forward disabled"><span class="glyphicon glyphicon-chevron-right"></span></div>
+    <h3 class="title"><span class="provider-details title"><em>Info</em></span></h3>
+  </div>
+  <div class="body page">
+    <ul class="objects page">
+      <li class="object page">
+        <div class="body">
+          <h4 class="provider-bio-title provider-bio-availability">Availability:</h3>
+          <h4 class="provider-bio-title provider-bio-description">About:</h3>
+        </div>
+      </li>
+    </ul>
+  </div><!-- .body.page -->
+</div>
+
+
+
+<div id="find-my-bookings-offpop" class="offpop">
+    <div id="find_my_bookings_wrapper">
+    </div>  
+</div>
+
+<div id="scheduleView">
+  <div id="scheduleTemplate" class="schedule-template">
+    <div class="offpop offpop-destroy schedule-template">
+  <button type="button" class="btn btn-info btn-xs add-to-waiting-list-toggle schedule-template">
+  <span class="glyphicon glyphicon-plus"></span>
+  <span class="btn-label">
+    Join Wait List  </span>
+</button>
+        <div class="add-to-waiting-list-form page-new-booking schedule-template">
+
+      <div class="anon_login-block">
+		<div id="login-block">
+		
+						<div id="social-logins">
+			<span class="login-with">Sign in with </span>
+			 		<div class="fblogin">
+			<a href="https://handcraftedbarbershop.resurva.com/auth/facebook"></a>
+		</div>
+		
+		<a class="social-login-toggle google-login-toggle" href="https://handcraftedbarbershop.resurva.com/auth/google"></a>
+
+					 </div>
+
+			 
+			 
+			 			
+			<div id="resurva-login" class="resurva-login">
+				<strong style="display:block;padding-bottom:10px;font-size:1.5em;line-height:1em;">OR</strong>
+				<a href="/login" class="login-after-booking-selection">Sign in with your Resurva account</a>
+				<div style="margin-top:10px;padding:10px 0 0 0;border-top:1px solid #d7d7d7;">
+				<a href="/signup" class="signup-after-booking-selection">I don't have a Resurva account</a>
+				</div>
+			</div>
+			
+		</div>
+		
+		</div></div>  <button type="button" class="btn btn-danger btn-xs add-to-waiting-list-remove-toggle schedule-template">
+  <span style="top:2px" class="glyphicon glyphicon-remove"></span>
+  <span class="btn-label">
+    Leave Wait List  </span>
+</button>
+  </div>
+      <div class="alert alert-info alert-dismissible waiting-lists-alert schedule-template" style="margin: 10px 10px 0 10px;position: relative;padding-left: 60px;margin: 10px;position: relative;padding-left: 60px;background: #ffc0cb;border-color: #ffa3b3;color: #b14f60;border-radius: 2px;">
+  <span class="glyphicon glyphicon-alert" style="margin-right: 5px;position: absolute;top: 50%;left: 20px;line-height: 20px;margin-top: -10px;font-size: 20px;"></span> 
+  <span class="feature-text">Select days marked as full and join the <strong style="display: block;">Wait List</strong></span>
+  <button type="button" class="close" data-dismiss="alert" aria-label="Close" style="position: absolute;left: auto;right: 5px;top: 50%;line-height: 40px;height: 40px;margin-top: -20px;"><span aria-hidden="true">&times;</span></button>
+</div>
+    </div>
+</div>
+
+
+
+
+
+<div class="modal fade" id="noCookie" tabindex="-1" role="dialog" aria-labelledby="noCookie" style="color:#222;text-align:center;">
+  <div class="modal-dialog" role="document">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h4 class="modal-title" id="myModalLabel">
+          Handcrafted Barbershop        </h4>
+      </div>      
+      <div class="modal-body">
+        <p>
+        To continue booking with Handcrafted Barbershop <br /><a target='_blank' href='https://handcraftedbarbershop.resurva.com/book' style="margin-top:5px;" class='btn btn-info'>&nbsp;&nbsp;Click Here&nbsp;&nbsp;</a>
+        </p>
+        <p><small><a tabindex="0" data-placement="bottom" role="button" data-toggle="popover" data-html="true" data-trigger="focus" data-content="Your browser security settings do not allow the embedded Resurva widget to function as intended. Please continue your booking at Resurva.<div style='padding-top:5px' class='text-center'><a target='_blank' href='https://handcraftedbarbershop.resurva.com/book' class='btn btn-info'>Continue</a></div>" style="color:#222">Why am I seeing this?</a></small></p>
+      </div> 
+    </div>
+  </div>
+</div>
+
+	
+
+
+<div class="modal fade" id="notificationSettings" tabindex="-1" role="dialog" aria-labelledby="notificationSettings" style="color:#222;">
+  <div class="modal-dialog" role="document">
+    <div class="modal-content">
+      <div class="modal-header" style="border: none;padding-bottom:0;">
+        <h4 class="modal-title" id="myModalLabel" style="position:relative;">
+          Booking Notifications          <a style="position:absolute;top:0;right:0;" 
+              tabindex="0" 
+              class="btn btn-sm btn-default" 
+              role="button" 
+              data-toggle="popover" 
+              data-placement="bottom" 
+              data-trigger="focus" 
+              data-container='body'
+              title="Booking Notifications" 
+              data-content="Notifications are sent when a booking is confirmed, cancelled, or changed. Reminders are sent the day before a booking. If you sign up for a Wait list, you will receive notifications when openings become available.">
+            <span class="glyphicon glyphicon-question-sign"></span> <span class="hidden-xs">Help</span>
+          </a>          
+        </h4>
+      </div>      
+      <div class="modal-body">
+        <div class="well notifications-well clearfix has-errors" style="margin: 0">
+          <div class="notifications-option">
+            <label>              
+              Email            </label>
+            <div class="notifications-form-option-toggle notifications-form-option-toggle-email">
+                <input type="checkbox" data-fieldtype="email" name="email_notifications" data-toggle="toggle" data-on="" data-off="" data-onstyle="success" />
+            </div>
+            <div class="form-group notifications-form-option">
+              <div class="input-group">
+                <!--<div class="input-group-addon"><span class="glyphicon glyphicon-phone"></span></div>-->
+                <div class="input-group-addon">To:</div>
+                <input type="email" name="email" class="form-control">
+              </div>
+                
+              <p class="help-block" style="margin-bottom:0"><em>* Sent for all booking events</em></p>
+                          </div>
+          </div>
+          <div class="notifications-option" style="clear:left;">
+            <label>
+              SMS (Text Message)            </label>          
+            <div class="notifications-form-option-toggle">
+              <input type="checkbox" data-fieldtype="sms" name="sms_notifications" data-toggle="toggle" data-on="" data-off="" data-onstyle="success" />
+            </div>
+            <div class="form-group notifications-form-option" style="margin-bottom: 0">
+              <div class="input-group">
+                <!--<div class="input-group-addon"><span class="glyphicon glyphicon-phone"></span></div>-->
+                <div class="input-group-addon">To:</div>
+                <input type="tel" name="phone" class="form-control">
+              </div>
+                            <p class="help-block" style="margin-bottom:0"><em>* Sent for booking reminders only</em></p>
+                          </div>
+                        <div class="notifications-before-booking notifications-form-error alert alert-danger" style="display:block;">
+              Please confirm your settings before booking.            </div>            
+                        <div class="notifications-none-selected notifications-form-error alert alert-danger" style="display:none;">
+              Please choose at least one notification type.            </div>
+            <div class="notifications-email-required notifications-form-error alert alert-danger" style="display:none;">
+              Email notifications are required for this location.            </div>
+          </div>
+        </div><!-- well -->
+      </div><!-- modal-body -->
+      <div class="modal-footer" style="border:none;padding-top:0; text-align:center;">
+        <div class="clearfix">
+          
+                    <div style="font-style:italic;margin-bottom: 10px;margin-top: -5px;">
+          Clicking or tapping <strong>Continue</strong> means that you <br class="visible-xs" />agree to Resurva's <strong><a href="http://resurva.com/terms">Terms & Conditions</a></strong>, <strong><a href="http://resurva.com/cookies-policy">Cookies Policy</a></strong> and <strong><a href="http://resurva.com/privacy">Privacy Policy</a></strong>          </div>
+          
+                    <button type="button" class="btn btn-lg btn-primary submit-form-from-notifications" style="margin:15px 0;width:250px;">
+                      <span class="default-button-text">
+              Continue            </span>
+            <span class="wait-list-button-text">
+              Continue            </span>
+            <span class="user-form-button-text">
+              Continue            </span>            
+          </button>
+        </div>
+      </div>      
+    </div>
+  </div>
+</div>
+
+
+
+<script id="find-my-bookings-offpop-content" type="text/html">
+  <div class="input-group">
+    <input id="find_my_bookings_email" class="form-control" type="email" name="email" placeholder="Enter your email" />
+    <div class="input-group-btn"><button id="find_my_bookings_button" class="btn btn-info">Go</div>
+  </div>
+</script>
+
+<script type="text/javascript">
+  $j('#findMyButton').click(function (event) {
+    $j('#find-my-bookings-offpop').trigger('open', [event, $j(this)]);
+    $j('#find_my_bookings_wrapper').html($j('#find-my-bookings-offpop-content').html());
+  });
+</script>
+
+              <div id="scroll-for-more"><span class="scroll-for-more"><span class="glyphicon glyphicon-chevron-down"></span></span></div>
+          </div>
+
+        </div><!-- .wrap.application -->
+
+      </div><!--/.row -->     
+    </div><!--/.container -->
+
+    		<noscript>
+			<style type="text/css">
+				.wrap.application,
+				.foot.application {
+					display:none;
+				}
+			</style>
+			<div style="width:100%;margin-top:24px;text-align:center;">
+				<h1>Handcrafted Barbershop</h1>
+				<p>
+					<br />
+					You have Javascript turned off within your web browser.<br /><br />
+
+					In order for the booking form to work, Javascript is required.<br /><br />
+
+					For information on enabling JS in your browser, please <a href="http://enable-javascript.com/" target="_new">visit this site</a>.
+				</p>
+			</div>
+		</noscript>
+		
+        <footer id="colophon">
+      <div class="container">
+  <div class="row">
+
+        <div class="col-sm-6 col-sm-push-6 embedded-hidden" style="margin-bottom: -10px">
+      <nav id="resurvaResourceNav">
+        <ul>
+           
+                      <li id="r-signup">
+            <a href="/signup">Sign Up</a>
+          </li>
+                      <li id="r-login">
+            <a href="/login">Sign In</a>
+          </li>
+          <li class="divider visible-xs"></li>
+                    <li>
+            <a href="https://resurva.com/business-terms">Terms</a>
+          </li>
+          <li>
+            <a href="https://resurva.com/business-privacy">Privacy</a>
+          </li>
+           
+          <li class="ios-location-key-wrapper">
+            <a href="#" class="ios-location-key">iOS App</a>
+          </li>
+                  </ul>
+      </nav>
+    </div>
+    
+      <div class="col-sm-6 col-sm-pull-6 clearfix embedded-visible">
+
+      <div>
+        <a href="https://resurva.com/business-resurva" title="Resurva" id="resurvaFooterLogo" class="resurva-logo resurva-320-min" target="_blank">
+          <span class="resurva-bar" id="resurva-bar-1"></span>
+          <span class="resurva-bar" id="resurva-bar-2"></span>
+          <span class="resurva-bar" id="resurva-bar-3"></span>
+        </a>
+
+        <a href="https://handcraftedbarbershop.resurva.com/book" title="Resurva" id="resurvaFooterLogo" class="resurva-logo resurva-320-max" target="_blank">
+          <span class="resurva-bar" id="resurva-bar-1"></span>
+          <span class="resurva-bar" id="resurva-bar-2"></span>
+          <span class="resurva-bar" id="resurva-bar-3"></span>
+        </a>        
+
+        <nav id="resurvaResourceNav" class="embedded-visible">
+          <ul>
+                              <li id="r-signup">
+            <a href="/signup">Sign Up</a>
+          </li>
+                    <li>
+            <a id="r-login" href="https://handcraftedbarbershop.resurva.com/login">Sign In</a>
+          </li>
+                    <li>
+            <a href="https://resurva.com/business-terms">Terms</a>
+          </li>
+          <li>
+            <a href="https://resurva.com/business-privacy">Privacy</a>
+          </li>
+           
+          <li class="ios-location-key-wrapper">
+            <a href="#" class="ios-location-key">iOS App</a>
+          </li>
+                    </ul>
+        </nav>
+      </div>
+    
+    </div>
+
+        <div class="text-center clearfix embedded-hidden" style="padding:30px 0">
+      <a target="_blank" href="https://resurva.com/business-resurva" title="Resurva" id="resurvaFooter">
+        <img src="/imgs/icons/resurva-logo.png" alt="Resurva" title="Resurva" />
+      </a>
+    </div>
+    
+  </div><!--/.row-->
+</div><!--/.container-->
+
+    </footer>
+    
+    <div id="addSmallScreenSizeClasses"></div>
+    
+    <a href="https://handcraftedbarbershop.resurva.com/book" class="gotoresurva resurva-320-min" target="_blank">
+      <span>Help</span>
+    </a>    
+
+    <div class="offpop" id="confirmable">
+        <ul class="objects page">
+            <li class="object confirmable-confirm">
+                <a href="#" class="">Confirm</a>
+            </li>
+            <li class="object confirmable-alt-confirm">
+                <a href="#" class="">Confirm</a>
+            </li>
+            <li class="object confirmable-cancel">
+                <a href="#" class="">Cancel</a>
+            </li>
+        </ul>
+    </div>
+
+    <div class="offpop" id="provider-list-availability">
+        <div class="availability-form-provider" id="availability-form-provider-template"><iframe src="" frameBorder="0"></iframe></div>
+    </div>
+    
+    <div class="offpop" id="provider-list-services"></div>
+
+    
+    <script type="text/javascript">
+    //<!--
+    
+skey = null;
+
+var skipFieldsets = ['fieldset-serviceoptions', 'fieldset-customfields'];
+var theNextFiveSetting = 1;
+var nextOpeningsMessage = "";
+var randomNoPreference = false;
+var AUTO_SELECT_SERVICE = false;
+var SHOW_PERCENTAGE_BOOKED_IN_CALENDAR = false;
+var noPreferenceForbiddenSetting = false;
+
+var asdl22_sfaj234 = false;
+var st1ck33reso = null;
+var sf2j0d_22dsf = '{"23485":[{"days":["2","3","4","5","6"],"start":null,"end":null}],"3716":[{"days":["2","3","4","5","6"],"start":null,"end":null}],"8742":[{"days":["2","3","4","5","6"],"start":null,"end":null}],"5071":[{"days":["2","3","4","5","6"],"start":null,"end":null}],"3613":[{"days":["2","3","4","5","6"],"start":null,"end":null}]}'; 
+var fsl2llkj4_2344fsd = '{"23485":[],"3716":["2024-06-05","2024-06-07","2024-06-15"],"8742":["2024-05-21","2024-05-22","2024-05-23","2024-05-24","2024-05-25","2024-05-28","2024-05-29","2024-05-30","2024-05-31","2024-06-01","2024-06-04","2024-06-05","2024-06-06","2024-06-07","2024-06-08","2024-06-11","2024-06-12","2024-06-13","2024-06-14","2024-06-15","2024-06-18","2024-06-29"],"5071":[],"3613":["2024-06-07","2024-06-12","2024-06-21"]}';
+var j29f_f202 = false;
+var jwols32_234sf2 = false;
+var locationSlug = 'handcraftedbarbershop';
+
+var sj07bf_3gsl2000fh = true;
+
+
+var skuafre_ir99 = 15;
+
+var hasDetailed = true;
+
+var formIsPosted = false;
+
+var selectedDates = [];
+
+var selectedTimes = null;
+var selectedEndTimes = null;
+var selectedRoomIds = null;
+var selectedServiceIds = null;
+var selectedCustomFields = null;
+var selectedServiceOptions = [];
+var userCredits = [];
+var accountPhone = '';
+var customSession = null;
+var selectedRoomBookingIds = null;
+var waiverAgree = null;
+var tpai = null;
+
+var bookingUser = "";
+
+	var paymentGatewayName = null;
+	var payments = false;
+	var validPayments = false;
+	
+var defaults = {
+	selectedDate: selectedDates,
+	selectedTime: selectedTimes,
+	selectedRoomId: selectedRoomIds,
+	selectedEndTime: selectedEndTimes,
+	selectedServiceIds: selectedServiceIds,
+	selectedCustomFields: selectedCustomFields,
+	selectedServiceOptions: selectedServiceOptions,
+	selectedRoomBookingIds: selectedRoomBookingIds,
+	waiverAgree: waiverAgree,
+	tpai: tpai,
+};
+
+watchDefaults();
+
+var editBookingId = null;
+var isAdmin = false;
+var isLoggedIn = false;
+var adl2kjfdo2_shkl324 = false;
+var isLoggedInTwitter = false;
+var isLoggedInFacebook = false;
+var itemsHaveLoaded = false;
+var usesDetailedClientInfo = true;
+var providerCombintationsSelected = false;
+
+var servicesUri = 'https://handcraftedbarbershop.resurva.com/services';
+var serviceGroupsUri = 'https://handcraftedbarbershop.resurva.com/services/groups';
+var availabilityUri = 'https://handcraftedbarbershop.resurva.com/index/availability';
+var nextFiveUri = 'https://handcraftedbarbershop.resurva.com/index/next-five';
+var uriServiceItems = 'https://handcraftedbarbershop.resurva.com/services/items';
+var fbLoginUrl = '';
+var serviceOptionsUri = 'https://handcraftedbarbershop.resurva.com/index/provider-service-options';
+var monthsUri = 'https://handcraftedbarbershop.resurva.com/years/--year--/months/--id--';
+
+var locale = {item:'{ITEM}'};
+
+var requireEmail = false
+var alofhewiIfrj026584 = false;
+var jlsx_2jjkdfj = true;
+var All73X7373R371NG = false;
+
+var showSubSlots = false;
+
+var closedDaysSetting = true;
+var closedDays = {"default":[0,0,1,1,1,1,1],"custom":[]}
+var anyone = {
+	provider: {
+		name: 'No Preference',
+		image: '',
+		isAnyone: true,
+		tagline: ''}
+}
+
+var calendarMinDate = "2024-05-21";
+var calendarMaxDate = "2024-06-17";
+
+var calendarMinHour = "21";
+
+var datePickerOptions = {
+	maxDate: calendarMaxDate,
+	minDate: calendarMinDate,
+	dateFormat: "yy-mm-dd",
+	onSelect: selectDate,
+	firstDay: 0}
+
+var provinces = {1:{countryId:39,name:"Alberta"},2:{countryId:39,name:"British Columbia"},3:{countryId:39,name:"Manitoba"},4:{countryId:39,name:"New Brunswick"},5:{countryId:39,name:"Newfoundland and Labrador"},6:{countryId:39,name:"Northwest Territories"},7:{countryId:39,name:"Nova Scotia"},8:{countryId:39,name:"Nunavut"},9:{countryId:39,name:"Ontario"},10:{countryId:39,name:"Prince Edward Island"},11:{countryId:39,name:"Quebec"},12:{countryId:39,name:"Saskatchewan"},13:{countryId:39,name:"Yukon"},14:{countryId:231,name:"Alabama"},15:{countryId:231,name:"Alaska"},16:{countryId:231,name:"Arizona"},17:{countryId:231,name:"Arkansas"},18:{countryId:231,name:"California"},19:{countryId:231,name:"Colorado"},20:{countryId:231,name:"Connecticut"},21:{countryId:231,name:"Delaware"},22:{countryId:231,name:"Florida"},23:{countryId:231,name:"Georgia"},24:{countryId:231,name:"Hawaii"},25:{countryId:231,name:"Idaho"},26:{countryId:231,name:"Illinois"},27:{countryId:231,name:"Indiana"},28:{countryId:231,name:"Iowa"},29:{countryId:231,name:"Kansas"},30:{countryId:231,name:"Kentucky"},31:{countryId:231,name:"Louisiana"},32:{countryId:231,name:"Maine"},33:{countryId:231,name:"Maryland"},34:{countryId:231,name:"Massachusetts"},35:{countryId:231,name:"Michigan"},36:{countryId:231,name:"Minnesota"},37:{countryId:231,name:"Mississippi"},38:{countryId:231,name:"Missouri"},39:{countryId:231,name:"Montana"},40:{countryId:231,name:"Nebraska"},41:{countryId:231,name:"Nevada"},42:{countryId:231,name:"New Hampshire"},43:{countryId:231,name:"New Jersey"},44:{countryId:231,name:"New Mexico"},45:{countryId:231,name:"New York"},46:{countryId:231,name:"North Carolina"},47:{countryId:231,name:"North Dakota"},48:{countryId:231,name:"Ohio"},49:{countryId:231,name:"Oklahoma"},50:{countryId:231,name:"Oregon"},51:{countryId:231,name:"Pennsylvania"},52:{countryId:231,name:"Rhode Island"},53:{countryId:231,name:"South Carolina"},54:{countryId:231,name:"South Dakota"},55:{countryId:231,name:"Tennessee"},56:{countryId:231,name:"Texas"},57:{countryId:231,name:"Utah"},58:{countryId:231,name:"Vermont"},59:{countryId:231,name:"Virginia"},60:{countryId:231,name:"Washington"},61:{countryId:231,name:"West Virginia"},62:{countryId:231,name:"Wisconsin"},63:{countryId:231,name:"Wyoming"},64:{countryId:231,name:"Washington, D.C."}};
+
+var currentUser = null;
+
+var jawl_7728jXChQB2 = false;
+
+var privateProvidersMessage = 'This provider is closed to new clients and requires a valid code to book.';
+
+var fh1lf96d1fdxsmmxnG7oJ29FDA = false;
+
+$j(document).ready(function() {
+
+	if (isAdmin && !isSchedule) {
+		initBookingFormAdminClientActions();
+	}
+
+	
+	$j('#appointment-booking-form #save-btn').addClass('btn-primary');
+
+	$j('#neckButtons').css('display', 'block');
+
+	if (customSession && customSession.shareTwitter && isLoggedInTwitter) {
+		$j('input[name="share-twitter"]').click();
+	}
+
+	if (customSession && customSession.shareFacebook && isLoggedInFacebook) {
+		$j('input[name="share-facebook"]').click();
+	}
+
+	$j('.item .cancel').confirmable({title:'Are you sure you want to cancel?', action:'Yes, Cancel', cancelAction:'No'});
+
+	$j('#inline-calendar').datepicker(datePickerOptions);
+	$j('#inline-calendar').find('.ui-datepicker').addClass('notranslate');
+
+	if (!$j('input[name="date"]').val()) {
+		$j('#inline-calendar').find('.ui-datepicker-current-day').removeClass('ui-datepicker-current-day');
+	}
+
+	if (!isSchedule) {
+				$j('#appointment-booking-form').submit(function(event) {
+			var form = $j(this);
+			var button = $j(this).find('button[name="submitform"]');
+
+			button.prop('disabled', true);
+
+	    bookingInProgress = 0;
+
+	    if ($j(this).data('ready_for_submit')) {
+	    	return true;
+	    }
+
+			if (!appointmentBookingFormHasErrors()) {
+				if ($j('#appointment-booking-form').data('payments') && !useSavedCard()) {
+					if ($j('#appointment-booking-form').data('payments').required) {
+
+						createStripeTokenAndSubmit(form, button, validateAndSubmitAppointmentBookingForm);
+
+				    return false;
+				  
+				  }
+			  }
+
+				if (notificationsSettingsRequired($j(this))) {
+					showNotificationsModal(button);
+					return false;
+				} else {
+					submitAppointmentBookingForm();
+				}
+
+			} else {
+				button.prop('disabled', false);
+			}
+
+			return false;
+		});
+	}
+
+	initBookingForm(null, false);
+
+	$j('#page-new-booking .back').click(function (event) {
+		event.preventDefault();
+
+		if ($j(this).parents('#page-new-booking').find('#fieldset-service_info').hasClass('groups-showing-services')) {
+			$j('#fieldset-service_info .service').hide();
+			$j('#fieldset-service_info .service-group').show();
+			$j('#page-new-booking .back').removeClass('active').addClass('disabled');
+			$j(this).parents('#page-new-booking').find('#fieldset-service_info').removeClass('groups-showing-services');
+			adjustHeight();
+			return false;
+		}
+
+		if ($j(this).hasClass('disabled')) {
+			return false;
+		}
+
+		previousFieldset($j('.current-action'));
+
+	});
+
+	$j('#page-new-booking .forward').click(function (event) {
+		event.preventDefault();
+		if ($j(this).hasClass('disabled')) {
+			return false;
+		}
+		nextFieldset(null, true, true);
+	});
+
+	$j('.another-booking-continue').click(function (event) {
+		event.preventDefault();
+		nextFieldset();
+	});
+
+	$j('#fieldset-service_info.current-action').parents('#page-new-booking').find('.back').removeClass('active').addClass('disabled');
+
+	$j('#fieldset-contactinfo.current-action').parents('#page-new-booking').find('.forward').removeClass('active').addClass('disabled');
+
+	$j('.show-provider-details').click(function (event) {
+		event.preventDefault();
+		$j('#page-new-booking').hide();
+		$j('#page-provider-details').show();
+	});
+
+	$j('#page-provider-details .back').click(function (event) {
+		event.preventDefault();
+		$j('#page-provider-details').hide();
+		$j('#page-new-booking').css({'display':''});
+	});
+
+	$j('.custom-field-continue').click(function (event) {
+
+		event.preventDefault();
+
+		var nextField = true;
+
+		$j('.custom-field').removeClass('required-error');
+		$j('.custom-field').each(function (i, el) {
+
+			if (!$j(el).find('input, textarea').val() && $j(el).find('input, textarea').hasClass('required')) {
+				$j(el).addClass('required-error');
+				nextField = false;
+			}
+
+		});
+
+		if (nextField) {
+			nextFieldset($j(this));
+		}
+
+	});
+
+	$j('.waiver-agree').click(function (event) {
+		$j('input[name="waiver_agree"]').val(1);
+		nextFieldset();
+	});
+
+	if ($j('body').hasClass('timezone-322')) {
+		$j('#fieldset-contactinfo #phone').focus(function() {
+			$j(this).val('+353');
+		});
+	}
+
+});
+    //-->
+</script>
+<script type="text/javascript">
+    //<!--
+    
+var loginUrl = '/';
+ios = false;
+ls_h9624442 = 'handcraftedbarbershop';
+
+$j(document).ready(function() {
+  
+  initBookingFormEvents();
+  initDates();
+    $j(document).ajaxComplete(function (a,xhr,c) {
+    loginStatus(xhr, true);
+  });
+
+  
+      
+
+  
+    
+  
+});
+
+    //-->
+</script>
+<script type="text/javascript">
+    //<!--
+    
+    $j( document ).ready(function() {
+
+            $j('#notificationsPopover').on('shown.bs.popover', function () {
+        $j('.close-notifications').click(function(event){
+          event.preventDefault();
+          $j('#notificationsPopover').popover('hide');
+        });
+      });
+
+      if ($j('#notificationsPopover').hasClass('force-notifications') && !$j('html').hasClass('embedded')) {
+        $j('.navbar-toggle').click();
+        $j('.force-notifications').click();
+      }
+
+    });
+
+      //-->
+</script>
+<script type="text/javascript">
+    //<!--
+    $j(document).ready(function () {
+
+		if ($j('.neck.application').length) {
+    var locStringWidth = $j('#account-location a').outerWidth();
+    var containerWidth = $j('.neck.application').outerWidth() * 0.75;
+    if (locStringWidth > containerWidth) {
+      $j('#head-address-province').remove();
+    }
+	}
+
+  $j('#offline-toggle a').click(function () {
+    $j('#offline-toggle').toggleClass('offline');
+  });
+
+  $j('#online-booking-status').click(function () {
+    $j(this).parents('#client-booking-toggle').toggleClass('showing-status-change');
+  });
+
+  
+  
+});
+
+    //-->
+</script>
+<script type="text/javascript">
+    //<!--
+    var locationKeyContent = 'Copy and paste this value to the <strong>Add Location</strong> dialog in the iOS App<br><input class="form-control" type="text" name="location-key" value="handcraftedbarbershop" style="margin-top:10px" />';
+var options = {content: locationKeyContent, title: "iOS Location Key <button class='btn-xs btn-link pull-right close-location-popup' style='position: relative;top: -3px;right: -10px;'><span class='glyphicon glyphicon-remove'></span></button>", placement: "top", html: true}
+$j('.ios-location-key').popover(options);
+$j('.ios-location-key').on('shown.bs.popover', function () {
+  $j('.close-location-popup').click(function() {
+    $j('.ios-location-key').popover('hide');
+  });
+})
+    //-->
+</script>        <script type="text/javascript">
+      var resurvaLanguage = "en_CA";
+      var resurvaTranslations = {"Enter your information to login.":{"en_CA":"Enter your information to sign in."},"Email":{"en_CA":"Email"},"Password":{"en_CA":"Password"},"Stay signed in":{"en_CA":"Stay signed in"},"Login":{"en_CA":"Login"},"Create a Resurva Account":{"en_CA":"Create a Resurva Account"},"Forgot Password":{"en_CA":"Forgot Password"},"Email Address":{"en_CA":"Email Address"},"ORSIGNIN":{"en_CA":"Or sign in with your <strong>Resurva<\/strong> account:"},"ORENTER":{"en_CA":"or enter your contact information:"},"Sign in with":{"en_CA":"Sign in with"},"SIGNIN":{"en_CA":"Sign In"},"An activation link will be sent to your email.":{"en_CA":"An activation link will be sent to your email."},"First Name":{"en_CA":"First Name"},"Last Name":{"en_CA":"Last Name"},"EMAILREMINDER":{"en_CA":"Send an <strong>email reminder<\/strong>"},"TEXTREMINDER":{"en_CA":"Send a <strong>text reminder<\/strong>"},"A reminder will be sent one day prior at 12:00pm to":{"en_CA":"A reminder will be sent one day prior to"},"and":{"en_CA":"and"},"Request Booking":{"en_CA":"Request Booking"},"REQUEST_BOOKING_LABEL":{"en_CA":"Request Booking"},"Terms":{"en_CA":"Terms"},"Privacy":{"en_CA":"Privacy"},"Signup":{"en_CA":"Sign Up"},"Logout":{"en_CA":"Logout"},"BOOKING_NOT_CREATED_TITLE":{"en_CA":"Your booking was not created."},"Select a service":{"en_CA":"Select a service:"},"Refresh":{"en_CA":"Refresh"},"Not Working":{"en_CA":"Not Working"},"Go to Resurva":{"en_CA":"Go to Resurva"},"What Day":{"en_CA":"What Day"},"provider":{"en_CA":"provider"},"Choose your":{"en_CA":"Choose your"},"What time":{"en_CA":"What time"},"Additional Details:":{"en_CA":"Additional Details:"},"Name":{"en_CA":"Name"},"Share my booking on":{"en_CA":"Share my booking on"},"Phone #":{"en_CA":"Phone"},"Hair":{"en_CA":"Hair"},"Find My Booking":{"en_CA":"Find My Booking"},"Start Over":{"en_CA":"Start Over"},"Close":{"en_CA":"Close"},"Enter your email":{"en_CA":"Enter your email"},"Go":{"en_CA":"Go"},"Choose":{"en_CA":"Choose"},"Info":{"en_CA":"Info"},"Availability:":{"en_CA":"Availability:"},"About:":{"en_CA":"About:"},"Images:":{"en_CA":"Images:"},"in":{"en_CA":"in"},"days":{"en_CA":"days"},"Tomorrow":{"en_CA":"tomorrow"},"Help":{"en_CA":"Help"},"No Preference":{"en_CA":"No Preference"},"NO_BOOKINGS_LABEL":{"en_CA":"No Bookings"},"NO_OPENINGS_LABEL":{"en_CA":"No Openings"},"Booking Terms:":{"en_CA":"Booking Terms:"},"Last Updated:":{"en_CA":"Last Updated:"},"OR":{"en_CA":"OR"},"ID":{"en_CA":"English"},"at":{"en_CA":"at"},"WITH_LABEL":{"en_CA":"with"},"We can't find a booking attached to this email.":{"en_CA":"We can't find a booking attached to this email."},"Please check your email.":{"en_CA":"Please check your email. "},"New Booking":{"en_CA":"New Booking"},"NEW_LABEL":{"en_CA":"New"},"Your Bookings":{"en_CA":"Your Bookings"},"Credits":{"en_CA":"Credits"},"EDIT_LABEL":{"en_CA":"Edit"},"Sign Out":{"en_CA":"Sign Out"},"Booked at":{"en_CA":"Booked at"},"General":{"en_CA":"General"},"Update":{"en_CA":"Update"},"Cancel":{"en_CA":"Cancel"},"Cancelling":{"en_CA":"Cancelling"},"morning":{"en_CA":"morning"},"afternoon":{"en_CA":"afternoon"},"evening":{"en_CA":"evening"},"Book at Resurva":{"en_CA":"Book at Resurva"},"View map":{"en_CA":"View map"},"VIEW_LABEL":{"en_CA":"View"},"HIGHLIGHT_LABEL":{"en_CA":"Highlight"},"CANCEL_HIGHLIGHT_LABEL":{"en_CA":"Remove Highlight"},"Scroll for more":{"en_CA":"Scroll for more"},"Thanks":{"en_CA":"Thanks"},"USER_NOT_FOUND":{"en_CA":"User not found."},"INVALID_USERNAME_TITLE":{"en_CA":"Invalid username"},"USERNAME_REQUIRED":{"en_CA":"Username required."},"NO_AVAILABILITY":{"en_CA":"No availability, please select another day."},"NO_AVAILABILITY_ADMIN":{"en_CA":"Please select another day"},"NO_AVAILABILITY_ADMIN_TITLE":{"en_CA":"No Availability"},"CLIENT_SEARCH_HELP":{"en_CA":"* Click <span class=\"glyphicon glyphicon-search\" style=\"margin: 0 5px\"><\/span> to search"},"CLIENT_SEARCH_LOCATION_LABEL":{"en_CA":"Search Location"},"CLIENT_SEARCH_PLACEHOLDER":{"en_CA":"Client name, email or phone (last few digits)"},"ACCOUNT_CREATED_LOCATION_LABEL":{"en_CA":"Location:"},"GROUP_BOOKING_ALREADY_BOOKED":{"en_CA":"Already Booked"},"GROUP_BOOKING_FULLY_BOOKED":{"en_CA":"Fully Booked"},"GROUP_SERVICE_LABEL_SESSION":{"en_CA":"Session"},"GROUP_SERVICE_LABEL_CLASS":{"en_CA":"Class"},"GROUP_SERVICE_LABEL_EVENT":{"en_CA":"Event"},"GROUP_SERVICE_LABEL_TOUR":{"en_CA":"Tour"},"ACCOUNT_ACTIVATION_TITLE":{"en_CA":"Account Activation"},"MOVE_ERROR_TITLE":{"en_CA":"Move Error"},"ERROR_TITLE":{"en_CA":"Error"},"ERROR_BODY":{"en_CA":"An unexpected error has occurred."},"PADDING_ERROR_TITLE":{"en_CA":"Padding Error"},"Selected time is not available.":{"en_CA":"Selected time is not available."},"ZOOM_LEVEL_HEADER":{"en_CA":"Zoom Level"},"NO_PROVIDERS_TITLE":{"en_CA":"No Providers"},"PROVIDERS_LABEL":{"en_CA":"Providers"},"VIEW_TYPE_HEADER":{"en_CA":"View Type"},"VIEW_TYPE_CLIENT_LABEL":{"en_CA":"Client Name"},"VIEW_TYPE_SERVICE_LABEL":{"en_CA":"Service Name"},"EDIT_PROVIDERS_HEADER":{"en_CA":"Edit Day"},"EDIT_MODES_HEADER":{"en_CA":"Edit Modes"},"MOVE_BOOKINGS_LABEL":{"en_CA":"Move Bookings"},"CANCELLATIONS_LABEL":{"en_CA":"Cancelled Bookings"},"NAME_ON_CARD_REQUIRED_DESCRIPTION":{"en_CA":"Name on card is required."},"BLOCK_ON_OFF_LABEL":{"en_CA":"Tap On\/Off"},"DELETE_LABEL":{"en_CA":"Delete"},"CUSTOMIZE_LABEL":{"en_CA":"Customize"},"BOOKING_SERIES_TITLE":{"en_CA":"Series Booking"},"YES":{"en_CA":"Yes"},"NO":{"en_CA":"No"},"ARE_YOU_SURE_TITLE":{"en_CA":"Are you sure?"},"LOADING_LABEL":{"en_CA":"Loading"},"SHOW_MORE_LABEL":{"en_CA":"Show More"},"VIEW_CALENDAR_LABEL":{"en_CA":"View Calendar"},"ADD_TO_ALL_WAITING_LISTS_LABEL":{"en_CA":"Add to All Wait Lists"},"WAITING_LIST_JOIN_ALL_LABEL":{"en_CA":"Join All Wait Lists"},"WAITING_LIST_ENTRIES_TITLE":{"en_CA":"Wait List Entries"},"WAITING_LIST_REMOVE_ALL_LABEL":{"en_CA":"Leave All Wait Lists"},"Monday":{"en_CA":"Monday"},"Tuesday":{"en_CA":"Tuesday"},"Wednesday":{"en_CA":"Wednesday"},"Thursday":{"en_CA":"Thursday"},"Friday":{"en_CA":"Friday"},"Saturday":{"en_CA":"Saturday"},"Sunday":{"en_CA":"Sunday"},"January":{"en_CA":"January"},"February":{"en_CA":"February"},"March":{"en_CA":"March"},"April":{"en_CA":"April"},"May":{"en_CA":"May"},"June":{"en_CA":"June"},"July":{"en_CA":"July"},"August":{"en_CA":"August"},"September":{"en_CA":"September"},"October":{"en_CA":"October"},"November":{"en_CA":"November"},"December":{"en_CA":"December"},"WHAT_SERVICE_LABEL":{"en_CA":"What service?"},"ADD_TO_CLIENT_GROUP_LABEL":{"en_CA":"Add Client"},"REQUIRED_PAYMENT_LABEL":{"en_CA":"Required Payment:"},"OPTIONAL_PAYMENT_LABEL":{"en_CA":"Optional Payment:"},"SKIP_PAYMENT_LABEL":{"en_CA":"Skip"},"CANCALLTION_PROTECTION_TITLE":{"en_CA":"Cancellation Protection is enabled."},"DONE_LABEL":{"en_CA":"Done"},"GROUP_SERVICES_COPY_WEEK_LABEL":{"en_CA":"Copy & Paste a Week"},"CONTINUE_LABEL":{"en_CA":"Continue"},"TO_CONTACT_LABEL":{"en_CA":"to contact information"},"CONTACT_INFORMATION_TITLE":{"en_CA":"Contact Information"},"SERVICES_CONTINUE_DESCRIPTION":{"en_CA":"Please select at least one service from the list."},"TODAY_LABEL":{"en_CA":"Today"},"TOMORROW_LABEL":{"en_CA":"Tomorrow"},"IN_LABEL":{"en_CA":"In"},"DAYS_LABEL":{"en_CA":"Days"},"TURN_OFF_LABEL":{"en_CA":"Turn Off"},"TURN_ON_LABEL":{"en_CA":"Turn On"},"EDIT_START_END_LABEL":{"en_CA":"Edit Start\/End"},"PENDING_LABEL":{"en_CA":"Pending"},"APPROVED_LABEL":{"en_CA":"Approved"},"CONFIRMED_LABEL":{"en_CA":"Confirmed"},"CANCELLED_LABEL":{"en_CA":"Cancelled"},"MOVED_LABEL":{"en_CA":"Moved"},"DENIED_LABEL":{"en_CA":"Denied"},"ALL_SERVICES_LABEL":{"en_CA":"All Services"},"SERVICES_LABEL":{"en_CA":"Services"},"GROUP_SERVICES_LABEL":{"en_CA":"Group Services"},"NO_SPLITS_LABEL":{"en_CA":"No Splits"},"SPLITS_LABEL":{"en_CA":"Splits"},"ACTIVE_FROM_LABEL":{"en_CA":"Active"},"INACTIVE_ON_LABEL":{"en_CA":"Inactive"},"NEVER_LABEL":{"en_CA":"Never"},"START_AGAIN_LABEL":{"en_CA":"Start Again"},"PAYMENT_REQUIREMENTS_ERROR_DESCRIPTION":{"en_CA":"There was an error with your request."},"PAYMENTS_DISABLED_PREVIOUSLY_ENABLED_ALERT_MESSAGE":{"en_CA":"We're sorry, we can't automatically connect to a payment processor because a connection has previously been made. Please contact us at <strong>support@resurva.com<\/strong> for further assistance and mention the code: <strong>payments_connect_error<\/strong>"},"BLOCKED_COOKIES":{"en_CA":"Your browser is blocking cookies.<br> Book your appointment by following this link:"},"STILL_SAVING_DESCRIPTION":{"en_CA":"Still saving... Please wait..."},"DELETE_EXISTING_BREAKS_LABEL":{"en_CA":"Remove all breaks for this day"},"MANAGE_LABEL":{"en_CA":"Manage"},"PRICE_MODIFICATION_ZERO_ERROR":{"en_CA":"Price modification amount must be greater than zero."},"authenticatedEmployeesTitle":{"en_CA":"Authenticated Employees"},"webSessionsLabel":{"en_CA":"Web Sessions"},"validUserTokensLabel":{"en_CA":"iOS & Android Sessions"},"webSessionDeleteLabel":{"en_CA":"Remove"},"webSessionThisIsYouLabel":{"en_CA":"This is you*"},"validUserTokenDeleteLabel":{"en_CA":"Remove"},"accountDeleteModalHasUpcomingBookingsWarning":{"en_CA":"Please cancel all upcoming bookings in order to delete your account."},"accountDeleteModalHasUpcomingBookingsWarningViewBookings":{"en_CA":"View Bookings"}};
+    </script>
+
+  </body>
+
+</html>
